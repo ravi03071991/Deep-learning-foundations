@@ -1,3 +1,3 @@
-# Deep-learning-foundations
+# Contents
 
-##### This repository contains project files of Udacity Deep learning foundations  
+This repository contains notebooks of the Udacity Deep learning foundations nanodegree.  
